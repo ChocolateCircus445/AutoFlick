@@ -1,0 +1,16 @@
+# There MUST be spaces between the property, the equals sign, and the value.
+# i.e. p = k
+
+# Keybinds
+tap_key = [
+flick_key = ]
+base_key = \
+love_key = `
+light_tap_key = =
+
+
+# Number of pixels that the mouse moves to flick.
+flick_dist = 500
+
+# Half the flick distance when sliding (in games like Love Lizards)
+do_half_flick = 0
