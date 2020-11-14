@@ -2,6 +2,8 @@
 A utility for playing Rhythm Heaven on emulators
 <hr></hr>
 
+### This requires pynput to work.
+
 This uses 5 buttons. They will be known as the following:
 
 * Tap
