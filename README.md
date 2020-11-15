@@ -2,7 +2,22 @@
 A utility for playing Rhythm Heaven on emulators
 <hr></hr>
 
-### This requires pynput to work.
+## Installation Tutorial
+
+
+1. Click the green "Code" button in the Github repository. This downloads the code.
+2. Double click on `AutoFlick-master.zip` to turn it into a folder.
+3. Install Python 3 by following this guide: https://realpython.com/installing-python/
+4. Type `pip install pynput` (`pip3 install pynput` on Mac) to install pynput.
+
+**Windows users: If pip is not found: follow this guide:** https://phoenixnap.com/kb/install-pip-windows
+
+5. Go into the `AutoFlick-master` folder. If you're running Windows, simply double click on `autoflick.py`. For Mac users, double click on `autoflick.command`.
+
+
+## How to Use This Software
+
+
 
 This uses 5 buttons. They will be known as the following:
 
